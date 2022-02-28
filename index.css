@@ -20,6 +20,7 @@ a:hover{text-decoration: none;}
 #slogan{
 float:right;
 margin-top:35px;
+text-align:right;
 }
 /* Globals type styling */
 
